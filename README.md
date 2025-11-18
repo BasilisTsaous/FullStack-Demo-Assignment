@@ -1,4 +1,3 @@
-# FullStack-Demo-Assignment
 # Full Stack Java Assignment – Backend Implementation
 ```
 This repository contains the backend implementation for the Full Stack Java Engineer assignment.  
